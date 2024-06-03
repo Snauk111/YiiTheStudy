@@ -891,8 +891,8 @@
                 "shasum": ""
             },
             "require": {
-                "swiftmailer/swiftmailer": "~6.0",
-                "yiisoft/yii2": ">=2.0.4"
+                "swiftmailer/swiftmailer": "6.2.5",
+                "yiisoft/yii2": "2.0.50"
             },
             "type": "yii2-extension",
             "extra": {
